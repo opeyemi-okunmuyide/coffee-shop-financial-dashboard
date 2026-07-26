@@ -45,8 +45,8 @@ This synthetic dataset covers the period from January 2022 to December 2023.
 
 ## Files
 
-- 'Financial_Performance_Dashboard.xlsx' contains the complete Excel analysis and dashboard
-- 'Financial Performance Dashboard.png' shows the compleated Executive Dashboard.
+- `Financial_Performance_Dashboard.xlsx` contains the complete Excel analysis and dashboard
+- `Financial Performance Dashboard.png` shows the compleated Executive Dashboard.
 
 
 
